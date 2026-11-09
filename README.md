@@ -9,6 +9,7 @@ The dashboard provides insights into airline performance, passenger traffic, cus
 It enables users to compare different airlines and analyze performance through interactive filters and data visualizations.
 
 ## 🎯 Project Objectives
+
 - Analyze passenger traffic across different airlines.
 - Compare airline customer ratings.
 - Monitor monthly passenger trends.
@@ -16,15 +17,17 @@ It enables users to compare different airlines and analyze performance through i
 - Analyze fuel efficiency and CO2 emissions.
 - Compare estimated airline profitability.
 - Provide interactive insights using Power BI.
-- 
+
 ## 🛠️ Tools & Technologies
+
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Visualization
 - Data Analytics
-- 
+
 ## 📊 Dashboard Features
+
 1. Airline Selection
 2. Route Filter
 3. Destination City Filter
@@ -37,17 +40,25 @@ It enables users to compare different airlines and analyze performance through i
 10. Monthly Passenger Analysis
 11. Passenger Comparison by Airline
 12. Estimated Profit Analysis (INR)
- 
+
 ## ✈️ Airlines Analyzed
+
 - Air India
 - IndiGo
 - Akasa Air
 - SpiceJet
 - Star Air
-  
+
 ## 📷 Dashboard Preview
+
+![Airline Performance Dashboard](Screenshots/airline_dashboard.png)
+
 ## 📁 Project Structure
+
+
+
 ## 🚀 How to Use
+
 1. Download or clone this repository.
 2. Open the Dashboard folder.
 3. Download the Power BI `.pbix` file.
@@ -55,19 +66,26 @@ It enables users to compare different airlines and analyze performance through i
 5. Refresh the data if the original dataset is available.
 6. Explore the dashboard using the interactive filters.
 
-
 ## 📈 Key Insights
+
 The dashboard helps users:
+
 - Compare passenger volumes across airlines.
 - Identify monthly passenger traffic trends.
 - Evaluate customer satisfaction.
 - Compare airline capacity and operational performance.
 - Analyze estimated profitability.
 - Understand environmental performance indicators.
-- 
+
 ## 👨‍💻 Author
-kawsar Ahmad Anik
+
+**Your Name**
+
 Data Analytics | Power BI | Data Visualization
-## 📄 www.linkedin.com/in/kawsar-ahmad-anik
+
+## 📄 License
+
 This project is intended for educational and portfolio purposes.
+
+
 
