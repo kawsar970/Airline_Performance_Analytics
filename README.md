@@ -51,7 +51,7 @@ It enables users to compare different airlines and analyze performance through i
 
 ## 📷 Dashboard Preview
 
-![Airline Performance Dashboard](Screenshots/airline_dashboard.png)
+![Airline Performance Dashboard](Screenshots/airline powerbi dashboard.png)
 
 ## 📁 Project Structure
 
@@ -79,11 +79,11 @@ The dashboard helps users:
 
 ## 👨‍💻 Author
 
-**Your Name**
+kawsar Ahmad Anik
 
 Data Analytics | Power BI | Data Visualization
 
-## 📄 License
+## 📄 www.linkedin.com/in/kawsar-ahmad-anik
 
 This project is intended for educational and portfolio purposes.
 
