@@ -51,7 +51,9 @@ It enables users to compare different airlines and analyze performance through i
 
 ## 📷 Dashboard Preview
 
-![Airline Performance Dashboard](Screenshots/airline powerbi dashboard.png)
+## 📷 Dashboard Preview
+
+![Airline Performance Dashboard](Airline%20powerbi%20dashboard.png)
 
 ## 📁 Project Structure
 
